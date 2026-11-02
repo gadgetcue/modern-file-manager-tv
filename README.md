@@ -2,32 +2,38 @@
 
 A clean, remote-friendly file manager built for the big screen. Browse storage, manage files and keep your TV tidy, all with a D-pad.
 
-![Modern File Manager](images/01_hero.png)
+![Home](images/home.png)
 
 > This repository hosts the app's info page and release downloads only. The source code is not published.
 
 ## Features
 
-- Home dashboard with storage overview and file categories (Images, Videos, Audio, Documents, APKs, Archives)
+- Home dashboard with storage overview, tools and file categories (Images, Videos, Audio, Documents, APKs, Archives)
 - Two navigation layouts: sidebar or floating top bar
 - Grid and list views with sorting
 - Favorites, recents and search
 - Quick actions menu: copy, cut, rename, compress (zip), delete, properties
 - Multi-select mode for bulk actions
 - Built-in image viewer and text viewer
-- Storage Cleaner with a donut chart and junk categories
-- APK extractor
+- **Storage Cleaner**: donut chart of used space by type, plus one-tap clean-up of Large Files, Duplicates (keeps the oldest copy), Installers, Temp & Logs and Empty Folders
+- **APK Extractor**: lists your installed apps (with an option to show system apps) and saves any app's APK to `Download/APKs`, including split APKs
 - 7 themes plus a custom image background
 - Acts as a file picker for other apps
 - Fully D-pad navigable
 
 ## Screenshots
 
-![Floating top bar](images/02_floating_top_bar.png)
-![Sidebar](images/03_sidebar.png)
-![Quick actions](images/04_quick_actions.png)
-![Grid and list](images/09_grid_and_list.png)
-![Themes](images/10_themes.png)
+### Home
+![Home](images/home.png)
+
+### Storage Cleaner
+![Storage Cleaner](images/storage_cleaner.png)
+
+### APK Extractor
+![APK Extractor](images/apk_extractor.png)
+
+### Sidebar layout
+![Sidebar layout](images/sidebar_layout.png)
 
 ## Install
 
