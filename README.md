@@ -62,3 +62,23 @@ Made by [@gadgetcue](https://github.com/gadgetcue).
 ## Instagram carousel
 
 Promo slides for the latest update are in [`instagram/v2/`](instagram/v2/).
+
+## More screenshots
+
+### List view with created date and time
+![List view](images/folder_list.png)
+
+### Grid view
+![Grid view](images/folder_grid.png)
+
+### Folder options
+![Folder options](images/folder_options.png)
+
+### Go to menu
+![Go to menu](images/goto_menu.png)
+
+### Settings
+![Settings](images/settings.png)
+
+### Ocean theme
+![Ocean theme](images/theme_ocean.png)
