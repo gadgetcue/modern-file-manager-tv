@@ -58,3 +58,7 @@ The app has no analytics and does not ask for network access.
 ## Credits
 
 Made by [@gadgetcue](https://github.com/gadgetcue).
+
+## Instagram carousel
+
+Promo slides for the latest update are in [`instagram/`](instagram/).
