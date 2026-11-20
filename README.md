@@ -2,7 +2,7 @@
 
 A clean, remote-friendly file manager built for the big screen. Browse storage, manage files and keep your TV tidy, all with a D-pad.
 
-![Home](images/home.png)
+![Modern File Manager on Android TV](screenshots/v1.2-home-tv-mockup.png)
 
 > This repository hosts the app's info page and release downloads only. The source code is not published.
 
